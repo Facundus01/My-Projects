@@ -5,3 +5,6 @@ Colors_Proyect.
 Form_Proyect.
 Restaurant_Proyect.
 Survey_Form (Integrador).
+Art_Proyect.
+Flex_Proyect.
+Typography_Proyect.
