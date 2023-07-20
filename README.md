@@ -21,3 +21,5 @@ Typography_Proyect.
 Tribute_Page_Proyect (Integrador).
 <br/>
 Balance_Sheet_Proyect
+<br/>
+Picasso_Proyect
