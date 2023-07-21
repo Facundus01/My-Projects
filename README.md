@@ -24,4 +24,6 @@ Balance_Sheet_Proyect
 <br/>
 Picasso_Proyect
 <br/>
-Piano_Proyec
+Piano_Proyect
+<br/>
+Document_Page_Proyect (Integrador).
