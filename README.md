@@ -1,29 +1,29 @@
-Aqui encontraran todos mis proyectos, desde los más básicos, hasta los más complicados (desde un html normal hasta un e-comerce).
+Aqui encontraran todos mis proyectos con CSS y HTML, desde los más básicos, hasta los más complicados.
 <br/>
-Proyects:
+Projects:
 <br/>
-Cat_Proyect.
+Cat_Project.
 <br/>
-Colors_Proyect.
+Colors_Project.
 <br/>
-Form_Proyect.
+Form_Project.
 <br/>
-Restaurant_Proyect.
+Restaurant_Project.
 <br/>
 Survey_Form (Integrador).
 <br/>
-Art_Proyect.
+Art_Project.
 <br/>
-Flex_Proyect.
+Flex_Project.
 <br/>
-Typography_Proyect.
+Typography_Project.
 <br/>
-Tribute_Page_Proyect (Integrador).
+Tribute_Page_Project (Integrador).
 <br/>
-Balance_Sheet_Proyect
+Balance_Sheet_Project
 <br/>
-Picasso_Proyect
+Picasso_Project
 <br/>
-Piano_Proyect
+Piano_Project
 <br/>
-Document_Page_Proyect (Integrador).
+Document_Page_Project (Integrador).

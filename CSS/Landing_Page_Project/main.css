@@ -1,0 +1,160 @@
+*, ::before, ::after{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+    }
+    
+    html{
+      font-size:20px;
+      font-weight:600;
+    }
+    
+    body{
+      font-family:Beskerville, serif;
+      color:black;
+      background-color:#f4f4f4;
+    }
+    
+    #header-img{
+      width:20%;
+      position: fixed;
+      top:0;
+      left:0
+    }
+    
+    #nav-bar{
+      position: fixed;
+      top:0;
+      right:0
+    }
+    
+    #nav-bar ul{
+    display:flex;
+    }
+    
+    ul li {
+      padding: 5px 15px;
+      list-style:none;
+    }
+    
+    ul li a{
+      padding:10px 15px;
+      margin:10px 15px;
+      text-decoration:none;
+      color:black;
+    }
+    
+    main{
+      display:flex;
+      flex-direction:column;
+    }
+    
+    #Features{
+    padding-top:3em;
+    }
+    
+    #Features h1{
+      text-align:center;
+    }
+    
+    #Features #form{
+    padding-top:5px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    }
+    
+    #form #email{
+      width:20%;
+      height:30px;
+      border-radius:5px;
+      text-align:left;
+      padding:0 5px;
+    }
+    
+    #form #submit{
+      width:10%;
+      margin:10px;
+      background-color:#ffff88;
+    }
+    
+    #icons-text{
+      display:flex;
+      text-align:center;
+      font-size:16px
+    }
+    
+    .fa{
+      color:orange;
+      text-align:center;
+      padding-bottom:5px;
+    }
+    
+    #Pricing{
+      display:flex;
+      justify-content:space-evenly;
+    }
+    
+    .pricing-box{
+      border:2px solid black;
+      width:250px;
+      text-align:center;
+      height:250px;
+      display:flex;
+      flex-direction:column;
+      justify-content:space-between;
+    }
+    
+    .pricing-box h4{
+    background-color:#ddd;
+    }
+    
+    .pricing-box button{
+    background-color:#ffff88;
+    width:50%;
+    margin: 5px auto;
+    font-size:25px
+    }
+
+    .html5-video-player .video-click-tracking, .html5-video-player .video-stream {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+    }
+    
+    .ytp-fit-cover-video .html5-main-video {
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+
+    .html5-video-player {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        z-index: 0;
+        outline: 0;
+        font-family: "YouTube Noto",Roboto,Arial,Helvetica,sans-serif;
+        color: #eee;
+        text-align: left;
+        direction: ltr;
+        font-size: 11px;
+        line-height: 1.3;
+        -webkit-font-smoothing: antialiased;
+        -webkit-tap-highlight-color: rgba(0,0,0,0);
+        touch-action: manipulation;
+        -ms-high-contrast-adjust: none;
+    }
+    video {
+        object-fit: contain;
+        overflow-clip-margin: content-box;
+        overflow: clip;
+    }
+
+    @media only screen and (maxwidth:500px){
+    #icons-text, #Pricing{
+      display:flex;
+      flex-direction:column;
+    }
+    }
